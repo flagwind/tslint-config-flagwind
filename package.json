@@ -1,0 +1,28 @@
+{
+    "name": "tslint-config-flagwind",
+    "version": "1.0.0",
+    "description": "A TSLint config for Flagwind Code Guide",
+    "author": "jason <jasonsoop@gmail.com>",
+    "main": "tslint.js",
+    "files": [
+        "tslint.js",
+        "README.md",
+        "LICENSE"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/flagwind/tslint-config-flagwind.git"
+    },
+    "homepage": "https://github.com/flagwind/tslint-config-flagwind",
+    "keywords": [
+        "tslint",
+        "ts-lint",
+        "config",
+        "typescript",
+        "flagwind"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/flagwind/tslint-config-flagwind/issues"
+    }
+}
