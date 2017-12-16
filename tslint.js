@@ -18,7 +18,7 @@ module.exports =
         "indent": [true, "spaces", 4],
 
         // 限定代码必须对齐
-        "align": [true, "parameters", "arguments", "statements", "members", "elements"],
+        "align": [true, "parameters", "statements", "members", "elements"],
 
         // 禁止使用 var 关键字
         "no-var-keyword": true,
